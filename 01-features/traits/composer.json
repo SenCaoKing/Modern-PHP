@@ -1,0 +1,5 @@
+{
+    "require": {
+        "willdurand/geocoder": "^4.2"
+    }
+}
